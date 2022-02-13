@@ -1,0 +1,4 @@
+C:\Users\PC\source\repos\CS_32_Project_1_NEW_IMPROVED\Debug\CS_32_Project_1_NEW_IMPROVED.exe
+C:\Users\PC\source\repos\CS_32_Project_1_NEW_IMPROVED\Debug\CS_32_Project_1_NEW_IMPROVED.pdb
+C:\Users\PC\Desktop\CS_32_Project_1_NEW_IMPROVED\Debug\CS_32_Project_1_NEW_IMPROVED.exe
+C:\Users\PC\Desktop\CS_32_Project_1_NEW_IMPROVED\Debug\CS_32_Project_1_NEW_IMPROVED.pdb
